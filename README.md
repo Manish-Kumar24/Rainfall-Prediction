@@ -4,10 +4,10 @@ A machine learning web application that predicts rainfall occurrence based on va
 
 ## 📷 Screenshots
 
-![Web Interface](https://github.com/Manish-Kumar24/Rainfall-Prediction/blob/main/assets/prediction%20result.png)
+![Prediction Result](https://github.com/Manish-Kumar24/Rainfall-Prediction/blob/main/assets/Main%20Prediction%20Interface.png)
 *Main prediction interface*
 
-![Prediction Result](https://github.com/Manish-Kumar24/Rainfall-Prediction/blob/main/assets/Main%20Prediction%20Interface.png)
+![Web Interface](https://github.com/Manish-Kumar24/Rainfall-Prediction/blob/main/assets/prediction%20result.png)
 *Example of a prediction result*
 
 ## 📋 Overview
